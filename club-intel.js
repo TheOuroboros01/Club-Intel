@@ -6,7 +6,7 @@ module.exports = async function runClubIntel(page) {
   // CONFIG (YOU EDIT THESE)
   // ============================
   const startPage = 1;   // 👈 change
-  const endPage = 117;   // 👈 change
+  const endPage = 55;   // 👈 change
 
   // ============================
   // TROPHY MAP
